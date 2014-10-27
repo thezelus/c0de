@@ -1,7 +1,9 @@
 ###Sample output from main()###
 
 Creating a new deck of cards
+
 Shuffling the deck
+
 Drawing hands now
 
 First hand {firstCard={suit=SPADES, rank=JACK}, secondCard={suit=HEARTS, rank=TEN}}
